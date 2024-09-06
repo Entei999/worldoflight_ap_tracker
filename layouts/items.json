@@ -1,0 +1,126 @@
+// sets layouts for shadred items grids
+// bigger example: https://github.com/Cyb3RGER/sm_ap_tracker/blob/main/layouts/items.json
+{
+    "shared_item_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "10, 10",
+                        "h_alignment": "left",
+                        "rows": [
+                            [
+                                "driver",
+                                "temple_cleared"           
+                            ],
+                            [
+                                "bridge_repair",
+                                "power_plant_key"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+	"spirits": {
+		"type": "array",
+		"orientation": "vertical",
+		"margin": "0,0",
+		"content": [
+			{
+				"type": "array",
+				"orientation": "horizontal",
+				"margin": "0,0",
+				"content": [
+					{
+						"type": "itemgrid",
+						"item_margin": "10,10",
+						"h_alignment": "left",
+						"rows": [
+							["driver", "rain_conjuring", "bridge_repair", "bus", "base_entrance"],
+							["lapras", "rock_clearing", "spaceship", "boat", "train"]
+						]
+					}
+				]
+			}
+		]
+	},
+	"keys_light": {
+		"type": "array",
+		"orientation": "vertical",
+		"margin": "0,0",
+		"content": [
+			{
+				"type": "array",
+				"orientation": "horizontal",
+				"margin": "0,0",
+				"content": [
+					{
+						"type": "itemgrid",
+						"item_margin": "10,10",
+						"h_alignment": "left",
+						"rows": [
+							["temple_of_light_key", "molten_fortress_key", "base_key", "forest_hill_key"],
+							["power_plant_key", "world_tour_key", "dk_island_key", "gourmet_race_key"]
+						]
+					}
+				]
+			}
+		]
+	},
+	"keys_dark": {
+		"type": "array",
+		"orientation": "vertical",
+		"margin": "0,0",
+		"content": [
+			{
+				"type": "array",
+				"orientation": "horizontal",
+				"margin": "0,0",
+				"content": [
+					{
+						"type": "itemgrid",
+						"item_margin": "10,10",
+						"h_alignment": "left",
+						"rows": [
+							["dark_realm_key", "sacred_land_key", "mysterious_dimension_key", "draculas_castle_key"],
+							["final_battle_key"]
+						]
+					}
+				]
+			}
+		]
+	},
+	"events": {
+		"type": "array",
+		"orientation": "vertical",
+		"margin": "0,0",
+		"content": [
+			{
+				"type": "array",
+				"orientation": "horizontal",
+				"margin": "0,0",
+				"content": [
+					{
+						"type": "itemgrid",
+						"item_margin": "10,10",
+						"h_alignment": "left",
+						"rows": [
+							["temple_cleared", "power_plant_cleared"],
+							["giga_bowser_defeated", "galleom_defeated", "rathalos_defeated", "galeem_defeated"],
+							["ganon_defeated", "marx_defeated", "dracula_defeated", "dharkon_defeated"]
+						]
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,39 @@
+//more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#maps
+[
+    {
+        "name": "light_realm",
+        "location_size": 24,
+        "location_border_thickness": 2,
+        "img": "images/maps/light_realm.png"
+    },
+    {
+        "name": "dark_realm",
+        "location_size": 32,
+        "location_border_thickness": 3,
+        "img": "images/maps/dark_realm.png"
+    },
+	{
+        "name": "sacred_land",
+        "location_size": 36,
+        "location_border_thickness": 3,
+        "img": "images/maps/sacred_land.png"
+    },
+	{
+        "name": "draculas_castle",
+        "location_size": 48,
+        "location_border_thickness": 4,
+        "img": "images/maps/draculas_castle.png"
+    },
+	{
+        "name": "mysterious_dimension",
+        "location_size": 72,
+        "location_border_thickness": 6,
+        "img": "images/maps/mysterious_dimension.png"
+    },
+	{
+        "name": "final_battle",
+        "location_size": 48,
+        "location_border_thickness": 4,
+        "img": "images/maps/final_battle.png"
+    }
+]

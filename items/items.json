@@ -1,0 +1,729 @@
+//more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#items
+[
+	{
+        "name": "Banjo & Kazooie",
+        "type": "toggle",
+        "img": "images/items/banjo.png",
+        "codes": "banjo"
+    },
+	{
+        "name": "Bayonetta",
+        "type": "toggle",
+        "img": "images/items/bayonetta.png",
+        "codes": "bayonetta"
+    },
+	{
+        "name": "Bowser",
+        "type": "toggle",
+        "img": "images/items/bowser.png",
+        "codes": "bowser"
+    },
+	{
+        "name": "Byleth",
+        "type": "toggle",
+        "img": "images/items/byleth.png",
+        "codes": "byleth"
+    },
+	{
+        "name": "Captain Falcon",
+        "type": "toggle",
+        "img": "images/items/captain_falcon.png",
+        "codes": "captain_falcon"
+    },
+	{
+        "name": "Chrom",
+        "type": "toggle",
+        "img": "images/items/chrom.png",
+        "codes": "chrom"
+    },
+	{
+        "name": "Cloud",
+        "type": "toggle",
+        "img": "images/items/cloud.png",
+        "codes": "cloud"
+    },
+	{
+        "name": "Corrin",
+        "type": "toggle",
+        "img": "images/items/corrin.png",
+        "codes": "corrin"
+    },
+	{
+        "name": "Daisy",
+        "type": "toggle",
+        "img": "images/items/daisy.png",
+        "codes": "daisy"
+    },
+	{
+        "name": "Dark Pit",
+        "type": "toggle",
+        "img": "images/items/dark_pit.png",
+        "codes": "dark_pit"
+    },
+	{
+        "name": "Dark Samus",
+        "type": "toggle",
+        "img": "images/items/dark_samus.png",
+        "codes": "dark_samus"
+    },
+	{
+        "name": "Diddy Kong",
+        "type": "toggle",
+        "img": "images/items/diddy_kong.png",
+        "codes": "diddy_kong"
+    },
+	{
+        "name": "Donkey Kong",
+        "type": "toggle",
+        "img": "images/items/donkey_kong.png",
+        "codes": "donkey_kong"
+    },
+	{
+        "name": "Dr. Mario",
+        "type": "toggle",
+        "img": "images/items/dr_mario.png",
+        "codes": "dr_mario"
+    },
+	{
+        "name": "Duck Hunt",
+        "type": "toggle",
+        "img": "images/items/duck_hunt.png",
+        "codes": "duck_hunt"
+    },
+	{
+        "name": "Falco",
+        "type": "toggle",
+        "img": "images/items/falco.png",
+        "codes": "falco"
+    },
+	{
+        "name": "Fox",
+        "type": "toggle",
+        "img": "images/items/fox.png",
+        "codes": "fox"
+    },
+	{
+        "name": "Ganondorf",
+        "type": "toggle",
+        "img": "images/items/ganondorf.png",
+        "codes": "ganondorf"
+    },
+	{
+        "name": "Greninja",
+        "type": "toggle",
+        "img": "images/items/greninja.png",
+        "codes": "greninja"
+    },
+	{
+        "name": "Hero",
+        "type": "toggle",
+        "img": "images/items/hero.png",
+        "codes": "hero"
+    },
+	{
+        "name": "Ice Climbers",
+        "type": "toggle",
+        "img": "images/items/ice_climbers.png",
+        "codes": "ice_climbers"
+    },
+	{
+        "name": "Ike",
+        "type": "toggle",
+        "img": "images/items/ike.png",
+        "codes": "ike"
+    },
+	{
+        "name": "Incineroar",
+        "type": "toggle",
+        "img": "images/items/incineroar.png",
+        "codes": "incineroar"
+    },
+	{
+        "name": "Inkling",
+        "type": "toggle",
+        "img": "images/items/inkling.png",
+        "codes": "inkling"
+    },
+	{
+        "name": "Isabelle",
+        "type": "toggle",
+        "img": "images/items/isabelle.png",
+        "codes": "isabelle"
+    },
+	{
+        "name": "Jigglypuff",
+        "type": "toggle",
+        "img": "images/items/jigglypuff.png",
+        "codes": "jigglypuff"
+    },
+	{
+        "name": "Joker",
+        "type": "toggle",
+        "img": "images/items/joker.png",
+        "codes": "joker"
+    },
+	{
+        "name": "Kazuya",
+        "type": "toggle",
+        "img": "images/items/kazuya.png",
+        "codes": "kazuya"
+    },
+	{
+        "name": "Ken",
+        "type": "toggle",
+        "img": "images/items/ken.png",
+        "codes": "ken"
+    },
+	{
+        "name": "King Dedede",
+        "type": "toggle",
+        "img": "images/items/king_dedede.png",
+        "codes": "king_dedede"
+    },
+	{
+        "name": "King K. Rool",
+        "type": "toggle",
+        "img": "images/items/king_k_rool.png",
+        "codes": "king_k_rool"
+    },
+	{
+        "name": "Kirby",
+        "type": "toggle",
+        "img": "images/items/kirby.png",
+        "codes": "kirby"
+    },
+	{
+        "name": "Link",
+        "type": "toggle",
+        "img": "images/items/link.png",
+        "codes": "link"
+    },
+	{
+        "name": "Little Mac",
+        "type": "toggle",
+        "img": "images/items/little_mac.png",
+        "codes": "little_mac"
+    },
+	{
+        "name": "Lucario",
+        "type": "toggle",
+        "img": "images/items/lucario.png",
+        "codes": "lucario"
+    },
+	{
+        "name": "Lucas",
+        "type": "toggle",
+        "img": "images/items/lucas.png",
+        "codes": "lucas"
+    },
+	{
+        "name": "Lucina",
+        "type": "toggle",
+        "img": "images/items/lucina.png",
+        "codes": "lucina"
+    },
+	{
+        "name": "Luigi",
+        "type": "toggle",
+        "img": "images/items/luigi.png",
+        "codes": "luigi"
+    },
+	{
+        "name": "Mario",
+        "type": "toggle",
+        "img": "images/items/mario.png",
+        "codes": "mario"
+    },
+	{
+        "name": "Marth",
+        "type": "toggle",
+        "img": "images/items/marth.png",
+        "codes": "marth"
+    },
+	{
+        "name": "Mega Man",
+        "type": "toggle",
+        "img": "images/items/mega_man.png",
+        "codes": "mega_man"
+    },
+	{
+        "name": "Meta Knight",
+        "type": "toggle",
+        "img": "images/items/meta_knight.png",
+        "codes": "meta_knight"
+    },
+	{
+        "name": "Mewtwo",
+        "type": "toggle",
+        "img": "images/items/mewtwo.png",
+        "codes": "mewtwo"
+    },
+	{
+        "name": "Mii Brawler",
+        "type": "toggle",
+        "img": "images/items/mii_brawler.png",
+        "codes": "mii_brawler"
+    },
+	{
+        "name": "Mii Gunner",
+        "type": "toggle",
+        "img": "images/items/mii_gunner.png",
+        "codes": "mii_gunner"
+    },
+	{
+        "name": "Mii Swordfighter",
+        "type": "toggle",
+        "img": "images/items/mii_swordfighter.png",
+        "codes": "mii_swordfighter"
+    },
+	{
+        "name": "Min Min",
+        "type": "toggle",
+        "img": "images/items/min_min.png",
+        "codes": "min_min"
+    },
+	{
+        "name": "Mr. Game & Watch",
+        "type": "toggle",
+        "img": "images/items/mr_game_and_watch.png",
+        "codes": "mr_game_and_watch"
+    },
+	{
+        "name": "Ness",
+        "type": "toggle",
+        "img": "images/items/ness.png",
+        "codes": "ness"
+    },
+	{
+        "name": "Olimar",
+        "type": "toggle",
+        "img": "images/items/olimar.png",
+        "codes": "olimar"
+    },
+	{
+        "name": "PAC-MAN",
+        "type": "toggle",
+        "img": "images/items/pac-man.png",
+        "codes": "pac-man"
+    },
+	{
+        "name": "Palutena",
+        "type": "toggle",
+        "img": "images/items/palutena.png",
+        "codes": "palutena"
+    },
+	{
+        "name": "Peach",
+        "type": "toggle",
+        "img": "images/items/peach.png",
+        "codes": "peach"
+    },
+	{
+        "name": "Pichu",
+        "type": "toggle",
+        "img": "images/items/pichu.png",
+        "codes": "pichu"
+    },
+	{
+        "name": "Pikachu",
+        "type": "toggle",
+        "img": "images/items/pikachu.png",
+        "codes": "pikachu"
+    },
+	{
+        "name": "Piranha Plant",
+        "type": "toggle",
+        "img": "images/items/piranha_plant.png",
+        "codes": "piranha_plant"
+    },
+	{
+        "name": "Pit",
+        "type": "toggle",
+        "img": "images/items/pit.png",
+        "codes": "pit"
+    },
+	{
+        "name": "Pokemon Trainer",
+        "type": "toggle",
+        "img": "images/items/pokemon_trainer.png",
+        "codes": "pokemon_trainer"
+    },
+	{
+        "name": "Pyra/Mythra",
+        "type": "toggle",
+        "img": "images/items/pyra_mythra.png",
+        "codes": "pyra_mythra"
+    },
+	{
+        "name": "Richter",
+        "type": "toggle",
+        "img": "images/items/richter.png",
+        "codes": "richter"
+    },
+	{
+        "name": "Ridley",
+        "type": "toggle",
+        "img": "images/items/ridley.png",
+        "codes": "ridley"
+    },
+	{
+        "name": "R.O.B.",
+        "type": "toggle",
+        "img": "images/items/rob.png",
+        "codes": "rob"
+    },
+	{
+        "name": "Robin",
+        "type": "toggle",
+        "img": "images/items/robin.png",
+        "codes": "robin"
+    },
+	{
+        "name": "Rosalina & Luma",
+        "type": "toggle",
+        "img": "images/items/rosalina.png",
+        "codes": "rosalina"
+    },
+	{
+        "name": "Roy",
+        "type": "toggle",
+        "img": "images/items/roy.png",
+        "codes": "roy"
+    },
+	{
+        "name": "Ryu",
+        "type": "toggle",
+        "img": "images/items/ryu.png",
+        "codes": "ryu"
+    },
+	{
+        "name": "Samus",
+        "type": "toggle",
+        "img": "images/items/samus.png",
+        "codes": "samus"
+    },
+	{
+        "name": "Sephiroth",
+        "type": "toggle",
+        "img": "images/items/sephiroth.png",
+        "codes": "sephiroth"
+    },
+	{
+        "name": "Sheik",
+        "type": "toggle",
+        "img": "images/items/sheik.png",
+        "codes": "sheik"
+    },
+	{
+        "name": "Shulk",
+        "type": "toggle",
+        "img": "images/items/shulk.png",
+        "codes": "shulk"
+    },
+	{
+        "name": "Simon",
+        "type": "toggle",
+        "img": "images/items/simon.png",
+        "codes": "simon"
+    },
+	{
+        "name": "Snake",
+        "type": "toggle",
+        "img": "images/items/snake.png",
+        "codes": "snake"
+    },
+	{
+        "name": "Sonic",
+        "type": "toggle",
+        "img": "images/items/sonic.png",
+        "codes": "sonic"
+    },
+	{
+        "name": "Sora",
+        "type": "toggle",
+        "img": "images/items/sora.png",
+        "codes": "sora"
+    },
+	{
+        "name": "Steve",
+        "type": "toggle",
+        "img": "images/items/steve.png",
+        "codes": "steve"
+    },
+	{
+        "name": "Terry",
+        "type": "toggle",
+        "img": "images/items/terry.png",
+        "codes": "terry"
+    },
+	{
+        "name": "Toon Link",
+        "type": "toggle",
+        "img": "images/items/toon_link.png",
+        "codes": "toon_link"
+    },
+	{
+        "name": "Villager",
+        "type": "toggle",
+        "img": "images/items/villager.png",
+        "codes": "villager"
+    },
+	{
+        "name": "Wario",
+        "type": "toggle",
+        "img": "images/items/wario.png",
+        "codes": "wario"
+    },
+	{
+        "name": "Wii Fit Trainer",
+        "type": "toggle",
+        "img": "images/items/wii_fit_trainer.png",
+        "codes": "wii_fit_trainer"
+    },
+	{
+        "name": "Wolf",
+        "type": "toggle",
+        "img": "images/items/wolf.png",
+        "codes": "wolf"
+    },
+	{
+        "name": "Yoshi",
+        "type": "toggle",
+        "img": "images/items/yoshi.png",
+        "codes": "yoshi"
+    },
+	{
+        "name": "Young Link",
+        "type": "toggle",
+        "img": "images/items/young_link.png",
+        "codes": "young_link"
+    },
+	{
+        "name": "Zelda",
+        "type": "toggle",
+        "img": "images/items/zelda.png",
+        "codes": "zelda"
+    },
+	{
+        "name": "Zero Suit Samus",
+        "type": "toggle",
+        "img": "images/items/zero_suit_samus.png",
+        "codes": "zero_suit_samus"
+    },
+	
+	
+	{
+        "name": "Driver",
+        "type": "toggle",
+        "img": "images/items/driver.png",
+        "codes": "driver"
+    },
+	{
+        "name": "Rain Conjuring",
+        "type": "toggle",
+        "img": "images/items/rain_conjuring.png",
+        "codes": "rain_conjuring"
+    },
+	{
+        "name": "Bridge Repair",
+        "type": "toggle",
+        "img": "images/items/bridge_repair.png",
+        "codes": "bridge_repair"
+    },
+	{
+        "name": "Bus",
+        "type": "toggle",
+        "img": "images/items/bus.png",
+        "codes": "bus"
+    },
+	{
+        "name": "Base Entrance",
+        "type": "toggle",
+        "img": "images/items/base_entrance.png",
+        "codes": "base_entrance"
+    },
+	{
+        "name": "Lapras",
+        "type": "toggle",
+        "img": "images/items/lapras.png",
+        "codes": "lapras"
+    },
+	{
+        "name": "Rock Clearing",
+        "type": "toggle",
+        "img": "images/items/rock_clearing.png",
+        "codes": "rock_clearing"
+    },
+	{
+        "name": "Spaceship",
+        "type": "toggle",
+        "img": "images/items/spaceship.png",
+        "codes": "spaceship"
+    },
+	{
+        "name": "Boat",
+        "type": "toggle",
+        "img": "images/items/boat.png",
+        "codes": "boat"
+    },
+	{
+        "name": "Train",
+        "type": "toggle",
+        "img": "images/items/train.png",
+        "codes": "train"
+    },
+	{
+        "name": "Rainbow Creation",
+        "type": "toggle",
+        "img": "images/items/rainbow_creation.png",
+        "codes": "rainbow_creation"
+    },
+	
+	
+	{
+        "name": "World Tour Key",
+        "type": "toggle",
+        "img": "images/items/world_tour_key.png",
+        "codes": "world_tour_key"
+    },
+	{
+        "name": "Molten Fortress Key",
+        "type": "toggle",
+        "img": "images/items/molten_fortress_key.png",
+        "codes": "molten_fortress_key"
+    },
+	{
+        "name": "Power Plant Key",
+        "type": "toggle",
+        "img": "images/items/power_plant_key.png",
+        "codes": "power_plant_key"
+    },
+	{
+        "name": "Base Key",
+        "type": "toggle",
+        "img": "images/items/base_key.png",
+        "codes": "base_key"
+    },
+	{
+        "name": "Temple of Light Key",
+        "type": "toggle",
+        "img": "images/items/temple_of_light_key.png",
+        "codes": "temple_of_light_key"
+    },
+	{
+        "name": "DK Island Key",
+        "type": "toggle",
+        "img": "images/items/dk_island_key.png",
+        "codes": "dk_island_key"
+    },
+	{
+        "name": "Forest Hill Key",
+        "type": "toggle",
+        "img": "images/items/forest_hill_key.png",
+        "codes": "forest_hill_key"
+    },
+	{
+        "name": "Gourmet Race Key",
+        "type": "toggle",
+        "img": "images/items/gourmet_race_key.png",
+        "codes": "gourmet_race_key"
+    },
+	{
+        "name": "Dark Realm Key",
+        "type": "toggle",
+        "img": "images/items/dark_realm_key.png",
+        "codes": "dark_realm_key"
+    },
+	{
+        "name": "Dracula's Castle Key",
+        "type": "toggle",
+        "img": "images/items/draculas_castle_key.png",
+        "codes": "draculas_castle_key"
+    },
+	{
+        "name": "Mysterious Dimension Key",
+        "type": "toggle",
+        "img": "images/items/mysterious_dimension_key.png",
+        "codes": "mysterious_dimension_key"
+    },
+	{
+        "name": "Sacred Land Key",
+        "type": "toggle",
+        "img": "images/items/sacred_land_key.png",
+        "codes": "sacred_land_key"
+    },
+	{
+        "name": "Final Battle Key",
+        "type": "toggle",
+        "img": "images/items/final_battle_key.png",
+        "codes": "final_battle_key"
+    },
+	
+	
+	{
+        "name": "Power Plant Cleared",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "codes": "power_plant_cleared"
+    },
+	{
+        "name": "Temple Cleared",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "codes": "temple_cleared"
+    },
+	{
+        "name": "Rathalos Defeated",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "codes": "rathalos_defeated"
+    },
+	{
+        "name": "Galleom Defeated",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "codes": "galleom_defeated"
+    },
+	{
+        "name": "Giga Bowser Defeated",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "codes": "giga_bowser_defeated"
+    },
+	{
+        "name": "Galeem Defeated",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "codes": "galeem_defeated"
+    },
+	{
+        "name": "Ganon Defeated",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "codes": "ganon_defeated"
+    },
+	{
+        "name": "Dracula Defeated",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "codes": "dracula_defeated"
+    },
+	{
+        "name": "Marx Defeated",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "codes": "marx_defeated"
+    },
+	{
+        "name": "Dharkon Defeated",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "codes": "dharkon_defeated"
+    },
+	{
+        "name": "Galeem and Dharkon Defeated",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "codes": "galeem_and_dharkon_defeated"
+    }
+]

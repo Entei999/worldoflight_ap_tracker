@@ -1,0 +1,845 @@
+[
+	{
+			"name": "The Light Realm",
+			"children": [
+						{
+							"sections": [{"name": "Rescue Mario", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 628, "y": 484}]
+						},
+						{
+							"sections": [{"name": "Rescue Donkey Kong", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 207, "y": 448}]
+						},
+						{
+							"sections": [{"name": "Rescue Link", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 708, "y": 573}]
+						},
+						{
+							"sections": [{"name": "Rescue Yoshi", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 693, "y": 268}]
+						},
+						{
+							"sections": [{"name": "Rescue Fox", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 567, "y": 199}]
+						},
+						{
+							"name": "Bottom of Rapids",
+							"sections": [{"name": "Rescue Pikachu", "item_count": 1}, {"name": "Bottom of Rapids Chest", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 748, "y": 270}]
+						},
+						{
+							"access_rules": ["driver"],
+							"sections": [{"name": "Rescue Captain Falcon", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 787, "y": 470}]
+						},
+						{
+							"access_rules": ["bridge_repair"],
+							"sections": [{"name": "Rescue Jigglypuff", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 707, "y": 357}]
+						},
+						{
+							"sections": [{"name": "Rescue Ice Climbers", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 355, "y": 213}]
+						},
+						{
+							"sections": [{"name": "Rescue Sheik", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 628, "y": 432}]
+						},
+						{
+							"sections": [{"name": "Rescue Dr. Mario", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 607, "y": 278}]
+						},
+						{
+							"sections": [{"name": "Rescue Marth", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 595, "y": 458}]
+						},
+						{
+							"sections": [{"name": "Rescue Lucas", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 264, "y": 285}]
+						},
+						{
+							"access_rules": ["rain_conjuring"],
+							"sections": [{"name": "Rescue Olimar", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 505, "y": 607}]
+						},
+						{
+							"sections": [{"name": "Rescue Lucario", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 820, "y": 313}]
+						},
+						{
+							"sections": [{"name": "Rescue Villager", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 655, "y": 455}]
+						},
+						{
+							"name": "Military Base",
+							"access_rules": ["base_entrance"],
+							"sections": [{"name": "Rescue Mega Man", "item_count": 1}, {"name": "Chest Outside Base", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 324, "y": 528}]
+						},
+						{
+							"sections": [{"name": "Rescue Wii Fit Trainer", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 519, "y": 307}]
+						},
+						{
+							"access_rules": ["power_plant_cleared"],
+							"sections": [{"name": "Rescue Little Mac", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 463, "y": 334}]
+						},
+						{
+							"sections": [{"name": "Rescue PAC-MAN", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 390, "y": 518}]
+						},
+						{
+							"sections": [{"name": "Rescue Duck Hunt", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 344, "y": 318}]
+						},
+						{
+							"sections": [{"name": "Rescue Inkling", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 551, "y": 370}]
+						},
+						{
+							"access_rules": ["bus"],
+							"sections": [{"name": "Rescue Isabelle", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 808, "y": 382}]
+						},
+						{
+							"sections": [{"name": "Rescue Mii Swordfighter", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 770, "y": 329}]
+						},
+						
+						
+						{
+							"sections": [{"name": "Chest North of Raceway", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 796, "y": 413}]
+						},
+						{
+							"sections": [{"name": "SE Plateau Chest", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 691, "y": 634}]
+						},
+						{
+							"sections": [{"name": "River Woods - Chest by River", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 631, "y": 326}]
+						},
+						{
+							"sections": [{"name": "River Woods - Chest Against Great Wall", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 690, "y": 305}]
+						},
+						{
+							"sections": [{"name": "Eastern Town Square Chest", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 754, "y": 372}]
+						},
+						{
+							"sections": [{"name": "Chest North of Mushrooms", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 448, "y": 409}]
+						},
+						{
+							"sections": [{"name": "Chest Beneath Mushrooms", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 471, "y": 562}]
+						},
+						{
+							"sections": [{"name": "Ribbon Road Chest", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 674, "y": 169}]
+						},
+						{
+							"access_rules": ["rock_clearing"],
+							"sections": [{"name": "East Rapids Chest (Under Rock)", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 765, "y": 235}]
+						},
+						{
+							"sections": [{"name": "West Jungle Pond Chest", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 156, "y": 433}]
+						},
+						{
+							"sections": [{"name": "Cliff Chest NE of Jungle", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 342, "y": 392}]
+						},
+						{
+							"sections": [{"name": "Lumiose City Chest", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 547, "y": 273}]
+						},
+						{
+							"sections": [{"name": "Console City SW Chest", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 516, "y": 405}]
+						},
+						{
+							"sections": [{"name": "Console City East Chest", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 577, "y": 383}]
+						},
+						{
+							"sections": [{"name": "Chest South of Heart Pool", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 559, "y": 228}]
+						},
+						{
+							"sections": [{"name": "Chest North of Heart Pool", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 546, "y": 153}]
+						},
+						{
+							"sections": [{"name": "Poison Woods South Chest", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 418, "y": 297}]
+						},
+						{
+							"sections": [{"name": "Poison Woods North Chest", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 399, "y": 237}]
+						},
+						{
+							"sections": [{"name": "Poison Woods East Chest", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 448, "y": 266}]
+						},
+						{
+							"sections": [{"name": "Poison Woods NE Chest", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 434, "y": 238}]
+						},
+						{
+							"sections": [{"name": "Poison Woods NW Chest", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 335, "y": 250}]
+						},
+						{
+							"sections": [{"name": "Poison Woods SW Chest", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 360, "y": 286}]
+						},
+						{
+							"access_rules": ["bridge_repair, rock_clearing"],
+							"sections": [{"name": "Chest West of NW Town", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 130, "y": 251}]
+						},
+						{
+							"sections": [{"name": "NW Town East Chest", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 310, "y": 280}]
+						},
+						{
+							"access_rules": ["rock_clearing"],
+							"sections": [{"name": "Frozen Summit Chest (Under Rock)", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 356, "y": 118}]
+						},
+						{
+							"sections": [{"name": "Frozen Mountain South Chest", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 389, "y": 201}]
+						},
+						
+						
+						
+						
+				{
+					"name": "World Tour",
+					"access_rules": [
+						"boat, world_tour_key"
+					],
+					"sections": [{"name": "Rescue Ryu", "item_count": 1}],
+					"map_locations": [{"map": "light_realm", "x": 589, "y": 555}]
+				},
+				{
+					"name": "Base",
+					"access_rules": [
+						"base_entrance, base_key"
+					],
+					"sections": [
+						{"name": "Storage Room Chest", "item_count": 1},
+						{"name": "East Hallway Chest", "item_count": 1},
+						{"name": "Rescue Snake", "item_count": 1},
+						{"name": "North Room Chest", "item_count": 1},
+						{"name": "Defeat Galleom", "hosted_item": "galleom_defeated"}
+					],
+					"map_locations": [{"map": "light_realm", "x": 324, "y": 552}]
+				},
+				{
+					"name": "Temple of Light",
+					"access_rules": [
+						"temple_of_light_key"
+					],
+					"sections": [
+						{"name": "Temple Chest (First Level)", "item_count": 1},
+						{"name": "Rescue Simon", "item_count": 1},
+						{"name": "Rescue Pit", "item_count": 1},
+						{"name": "Clear Temple of Light", "hosted_item": "temple_cleared"}
+					],
+					"map_locations": [{"map": "light_realm", "x": 249, "y": 154}]
+				},
+				{
+					"name": "Power Plant",
+					"access_rules": [
+						"power_plant_key"
+					],
+					"sections": [
+						{"name": "Power Plant Blue Chest", "item_count": 1},
+						{"name": "Power Plant Pink Chest", "item_count": 1},
+						{"name": "Rescue Pichu", "item_count": 1},
+						{"name": "Clear Power Plant", "hosted_item": "power_plant_cleared"}
+					],
+					"map_locations": [{"map": "light_realm", "x": 423, "y": 324}]
+				},
+				{
+					"name": "Molten Fortress",
+					"access_rules": [
+						"molten_fortress_key"
+					],
+					"sections": [
+						{"name": "Molten Fortress East Chest", "item_count": 1},
+						{"name": "Rescue Peach", "item_count": 1},
+						{"name": "Molten Fortress Chest Before Bowser", "item_count": 1},
+						{"name": "Defeat Giga Bowser", "hosted_item": "giga_bowser_defeated"}
+					],
+					"map_locations": [{"map": "light_realm", "x": 729, "y": 146}]
+
+				},
+				{
+					"name": "Outer Space",
+					"access_rules": [
+						"spaceship"
+					],
+					"children": [
+								{
+									"sections": [{"name": "Rescue Falco", "item_count": 1}],
+									"map_locations": [{"map": "light_realm", "x": 470, "y": 50}]
+								},
+								{
+									"sections": [{"name": "Red Planet Chest", "item_count": 1}],
+									"map_locations": [{"map": "light_realm", "x": 427, "y": 65}]
+								}
+					]
+				},
+				{
+					"name": "East Light Realm",
+					"access_rules": [
+						"temple_cleared"
+					],
+					"children": [
+								{
+									"sections": [{"name": "Rescue Samus", "item_count": 1}],
+									"map_locations": [{"map": "light_realm", "x": 881, "y": 397}]
+								},
+								{
+									"sections": [{"name": "Rescue Ness", "item_count": 1}],
+									"map_locations": [{"map": "light_realm", "x": 880, "y": 171}]
+								},
+								{
+									"sections": [{"name": "Rescue Mr. Game and Watch", "item_count": 1}],
+									"map_locations": [{"map": "light_realm", "x": 960, "y": 392}]
+								},
+								{
+									"access_rules": ["rock_clearing"],
+									"sections": [{"name": "Rescue Zero Suit Samus", "item_count": 1}],
+									"map_locations": [{"map": "light_realm", "x": 1013, "y": 138}]
+								},
+								{
+									"sections": [{"name": "Rescue Pokemon Trainer", "item_count": 1}],
+									"map_locations": [{"map": "light_realm", "x": 1077, "y": 480}]
+								},
+								{
+									"access_rules": ["bridge_repair"],
+									"sections": [{"name": "Rescue Shulk", "item_count": 1}],
+									"map_locations": [{"map": "light_realm", "x": 1084, "y": 260}]
+								},
+								{
+									"access_rules": ["lapras"],
+									"sections": [{"name": "Rescue Mii Gunner", "item_count": 1}],
+									"map_locations": [{"map": "light_realm", "x": 995, "y": 663}]
+								},
+								
+								{
+									"sections": [{"name": "Pac-Maze Chest", "item_count": 1}],
+									"map_locations": [{"map": "light_realm", "x": 997, "y": 420}]
+								},
+								{
+									"sections": [{"name": "SE Coastal Town Chest", "item_count": 1}],
+									"map_locations": [{"map": "light_realm", "x": 975, "y": 520}]
+								},
+								{
+									"access_rules": ["lapras"],
+									"sections": [{"name": "SE Island Chest", "item_count": 1}],
+									"map_locations": [{"map": "light_realm", "x": 1053, "y": 591}]
+								},
+								{
+									"access_rules": ["bridge_repair"],
+									"sections": [{"name": "Chest East of Waterfall Mountain", "item_count": 1}],
+									"map_locations": [{"map": "light_realm", "x": 1156, "y": 313}]
+								},
+								{
+									"access_rules": ["bridge_repair"],
+									"sections": [{"name": "SW Badlands Chest", "item_count": 1}],
+									"map_locations": [{"map": "light_realm", "x": 869, "y": 315}]
+								},
+								{
+									"access_rules": ["rock_clearing", "train"],
+									"sections": [{"name": "North Badlands Chest", "item_count": 1}],
+									"map_locations": [{"map": "light_realm", "x": 956, "y": 205}]
+								},
+								{
+									"access_rules": ["rock_clearing", "train"],
+									"sections": [{"name": "Volcano Base Chest", "item_count": 1}],
+									"map_locations": [{"map": "light_realm", "x": 1011, "y": 198}]
+								},
+								{
+									"access_rules": ["rock_clearing"],
+									"sections": [{"name": "Volcano Peak Chest", "item_count": 1}],
+									"map_locations": [{"map": "light_realm", "x": 1099, "y": 127}]
+								},
+						{
+							"name": "Sea of Clouds",
+							"access_rules": [
+								"rock_clearing, rain_conjuring",
+								"galeem_defeated"
+							],
+							"children": [
+											{
+												"sections": [{"name": "Chest on a Cloud", "item_count": 1}],
+												"map_locations": [{"map": "light_realm", "x": 844, "y": 111}]
+											},
+								{
+									"name": "Gourmet Race",
+									"access_rules": [
+										"gourmet_race_key"
+									],
+									"sections": [{"name": "Rescue King Dedede", "item_count": 1}],
+									"map_locations": [{"map": "light_realm", "x": 936, "y": 89}]
+								}
+							]
+						},
+						{
+							"name": "DK Island",
+							"access_rules": [
+								"dk_island_key"
+							],
+							"sections": [{"name": "Rescue Diddy Kong", "item_count": 1}],
+							"map_locations": [{"map": "light_realm", "x": 1102, "y": 392}]
+						},
+						{
+							"name": "Forest Hill",
+							"access_rules": [
+								"lapras, forest_hill_key"
+							],
+							"sections": [
+								{"name": "Forest Hill Chest", "item_count": 1},
+								{"name": "Rescue Toon Link", "item_count": 1},
+								{"name": "Defeat Rathalos", "hosted_item": "rathalos_defeated"}
+							],
+							"map_locations": [{"map": "light_realm", "x": 1045, "y": 625}]
+						}
+					]
+				},
+				{
+					"name": "Galeem",
+					"access_rules": [
+						"rathalos_defeated, galleom_defeated, giga_bowser_defeated, spaceship",
+						"rathalos_defeated, galleom_defeated, giga_bowser_defeated, temple_cleared, rock_clearing, rain_conjuring"
+					],
+					"sections": [
+						{"name": "Defeat Galeem", "hosted_item": "galeem_defeated"}
+					],
+					"map_locations": [{"map": "light_realm", "x": 663, "y": 82}],
+					"children": [
+						{
+							"name": "The Dark Realm",
+							"access_rules": [
+								"dark_realm_key"
+							],
+							"sections": [
+								{"name": "Rescue Incineroar", "item_count": 1},
+								{"name": "N Dark Realm SE Chest", "item_count": 1},
+								{"name": "N Dark Realm East Chest", "item_count": 1},
+								{"name": "N Dark Realm North Chest", "item_count": 1},
+								{"name": "Rescue Rosalina and Luma", "item_count": 1},
+								{"name": "E Dark Realm Exploding Planet Chest", "item_count": 1},
+								{"name": "E Dark Realm Gear Chest West", "item_count": 1},
+								{"name": "Rescue Lucina", "item_count": 1},
+								{"name": "E Dark Realm Gear Chest East", "item_count": 1},
+								{"ref": "The Light Realm/Galeem/The Dark Realm/Sacred Land/North Village Chest"},
+								{"ref": "The Light Realm/Galeem/The Dark Realm/Sacred Land/SW Village Chest"},
+								{"ref": "The Light Realm/Galeem/The Dark Realm/Sacred Land/Rescue Mii Brawler"},
+								{"ref": "The Light Realm/Galeem/The Dark Realm/Sacred Land/Rescue Zelda"},
+								{"ref": "The Light Realm/Galeem/The Dark Realm/Sacred Land/Lost Woods Central Pond Chest"},
+								{"ref": "The Light Realm/Galeem/The Dark Realm/Sacred Land/Rescue Chrom"},
+								{"ref": "The Light Realm/Galeem/The Dark Realm/Sacred Land/Lost Woods SE Chest"},
+								{"ref": "The Light Realm/Galeem/The Dark Realm/Sacred Land/Rescue Young Link"},
+								{"ref": "The Light Realm/Galeem/The Dark Realm/Sacred Land/Rescue Sonic"},
+								{"ref": "The Light Realm/Galeem/The Dark Realm/Sacred Land/Rescue Cloud"},
+								{"ref": "The Light Realm/Galeem/The Dark Realm/Sacred Land/Gerudo Desert Chest"},
+								{"ref": "The Light Realm/Galeem/The Dark Realm/Sacred Land/Rescue Bowser Jr."},
+								{"ref": "The Light Realm/Galeem/The Dark Realm/Sacred Land/Gerudo Fortress Chest"},
+								{"ref": "The Light Realm/Galeem/The Dark Realm/Sacred Land/Rescue Ganondorf"},
+								{"ref": "The Light Realm/Galeem/The Dark Realm/Sacred Land/Defeat Ganon"},
+								{"ref": "The Light Realm/Galeem/The Dark Realm/Mysterious Dimension/Rescue R.O.B."},
+								{"ref": "The Light Realm/Galeem/The Dark Realm/Mysterious Dimension/Rescue Greninja"},
+								{"ref": "The Light Realm/Galeem/The Dark Realm/Mysterious Dimension/Rescue Corrin"},
+								{"ref": "The Light Realm/Galeem/The Dark Realm/Mysterious Dimension/Rescue Wolf"},
+								{"ref": "The Light Realm/Galeem/The Dark Realm/Mysterious Dimension/Rescue Ike"},
+								{"ref": "The Light Realm/Galeem/The Dark Realm/Mysterious Dimension/Rescue Mewtwo"},
+								{"ref": "The Light Realm/Galeem/The Dark Realm/Mysterious Dimension/Rescue King K. Rool"},
+								{"ref": "The Light Realm/Galeem/The Dark Realm/Mysterious Dimension/Rescue Meta Knight"},
+								{"ref": "The Light Realm/Galeem/The Dark Realm/Mysterious Dimension/Rescue Luigi"},
+								{"ref": "The Light Realm/Galeem/The Dark Realm/Mysterious Dimension/Defeat Marx"},
+								{"ref": "The Light Realm/Galeem/The Dark Realm/Dracula's Castle/Rescue Daisy"},
+								{"ref": "The Light Realm/Galeem/The Dark Realm/Dracula's Castle/Rescue Wario"},
+								{"ref": "The Light Realm/Galeem/The Dark Realm/Dracula's Castle/Castle Underground Chest"},
+								{"ref": "The Light Realm/Galeem/The Dark Realm/Dracula's Castle/Castle Grounds Chest"},
+								{"ref": "The Light Realm/Galeem/The Dark Realm/Dracula's Castle/Rescue Ridley"},
+								{"ref": "The Light Realm/Galeem/The Dark Realm/Dracula's Castle/Rescue Ken"},
+								{"ref": "The Light Realm/Galeem/The Dark Realm/Dracula's Castle/Rescue Dark Pit"},
+								{"ref": "The Light Realm/Galeem/The Dark Realm/Dracula's Castle/Castle Gear Tower Chest"},
+								{"ref": "The Light Realm/Galeem/The Dark Realm/Dracula's Castle/Rescue Robin"},
+								{"ref": "The Light Realm/Galeem/The Dark Realm/Dracula's Castle/Rescue Richter"},
+								{"ref": "The Light Realm/Galeem/The Dark Realm/Dracula's Castle/Defeat Dracula"},
+								{"name": "Defeat Dharkon", "hosted_item": "dharkon_defeated", "access_rules": ["ganon_defeated, dracula_defeated, marx_defeated"]},
+								{"ref": "The Light Realm/Galeem/The Dark Realm/The Final Battle/Rescue Dark Samus"},
+								{"ref": "The Light Realm/Galeem/The Dark Realm/The Final Battle/Rescue Roy"},
+								{"ref": "The Light Realm/Galeem/The Dark Realm/The Final Battle/Rescue Bayonetta"},
+								{"ref": "The Light Realm/Galeem/The Dark Realm/The Final Battle/Rescue Palutena"},
+								{"ref": "The Light Realm/Galeem/The Dark Realm/The Final Battle/Defeat Galeem and Dharkon"}
+							],
+							"map_locations": [{"map": "light_realm", "x": 663, "y": 58}],
+							"children": [
+										{
+											"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/Rescue Lucina"}],
+											"map_locations": [{"map": "dark_realm", "x": 1452, "y": 901}]
+										},
+										{
+											"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/Rescue Rosalina and Luma"}],
+											"map_locations": [{"map": "dark_realm", "x": 909, "y": 88}]
+										},
+										{
+											"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/Rescue Incineroar"}],
+											"map_locations": [{"map": "dark_realm", "x": 773, "y": 878}]
+										},
+										{
+											"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/E Dark Realm Exploding Planet Chest"}],
+											"map_locations": [{"map": "dark_realm", "x": 1314, "y": 631}]
+										},
+										{
+											"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/E Dark Realm Gear Chest West"}],
+											"map_locations": [{"map": "dark_realm", "x": 1281, "y": 857}]
+										},
+										{
+											"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/E Dark Realm Gear Chest East"}],
+											"map_locations": [{"map": "dark_realm", "x": 1417, "y": 873}]
+										},
+										{
+											"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/N Dark Realm SE Chest"}],
+											"map_locations": [{"map": "dark_realm", "x": 1053, "y": 372}]
+										},
+										{
+											"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/N Dark Realm East Chest"}],
+											"map_locations": [{"map": "dark_realm", "x": 1180, "y": 317}]
+										},
+										{
+											"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/N Dark Realm North Chest"}],
+											"map_locations": [{"map": "dark_realm", "x": 867, "y": 139}]
+										},
+										{
+											"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/Defeat Dharkon"}],
+											"map_locations": [{"map": "dark_realm", "x": 963, "y": 657}]
+										},
+								{
+									"name": "Sacred Land",
+									"access_rules": [
+										"sacred_land_key"
+									],
+									"sections": [
+										{"name": "North Village Chest", "item_count": 1},
+										{"name": "SW Village Chest", "item_count": 1},
+										{"name": "Rescue Mii Brawler", "item_count": 1},
+										{"name": "Rescue Zelda", "item_count": 1},
+										{"name": "Lost Woods Central Pond Chest", "item_count": 1},
+										{"name": "Rescue Chrom", "item_count": 1},
+										{"name": "Lost Woods SE Chest", "item_count": 1},
+										{"name": "Rescue Young Link", "item_count": 1},
+										{"name": "Rescue Sonic", "item_count": 1},
+										{"name": "Rescue Cloud", "item_count": 1},
+										{"name": "Gerudo Desert Chest", "item_count": 1},
+										{"name": "Rescue Bowser Jr.", "item_count": 1},
+										{"name": "Gerudo Fortress Chest", "item_count": 1},
+										{"name": "Rescue Ganondorf", "item_count": 1},
+										{"name": "Defeat Ganon", "hosted_item": "ganon_defeated"}
+									],
+									"map_locations": [{"map": "dark_realm", "x": 520, "y": 966}],
+									"children": [
+												{
+													"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/Sacred Land/Rescue Zelda"}],
+													"map_locations": [{"map": "sacred_land", "x": 205, "y": 619}]
+												},
+												{
+													"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/Sacred Land/Rescue Young Link"}],
+													"map_locations": [{"map": "sacred_land", "x": 1069, "y": 612}]
+												},
+												{
+													"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/Sacred Land/Rescue Ganondorf"}],
+													"map_locations": [{"map": "sacred_land", "x": 636, "y": 57}]
+												},
+												{
+													"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/Sacred Land/Rescue Chrom"}],
+													"map_locations": [{"map": "sacred_land", "x": 941, "y": 441}]
+												},
+												{
+													"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/Sacred Land/Rescue Sonic"}],
+													"map_locations": [{"map": "sacred_land", "x": 642, "y": 574}]
+												},
+												{
+													"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/Sacred Land/Rescue Bowser Jr."}],
+													"map_locations": [{"map": "sacred_land", "x": 583, "y": 171}]
+												},
+												{
+													"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/Sacred Land/Rescue Cloud"}],
+													"map_locations": [{"map": "sacred_land", "x": 640, "y": 513}]
+												},
+												{
+													"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/Sacred Land/Rescue Mii Brawler"}],
+													"map_locations": [{"map": "sacred_land", "x": 320, "y": 614}]
+												},
+												{
+													"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/Sacred Land/Lost Woods Central Pond Chest"}],
+													"map_locations": [{"map": "sacred_land", "x": 846, "y": 503}]
+												},
+												{
+													"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/Sacred Land/Lost Woods SE Chest"}],
+													"map_locations": [{"map": "sacred_land", "x": 1002, "y": 561}]
+												},
+												{
+													"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/Sacred Land/North Village Chest"}],
+													"map_locations": [{"map": "sacred_land", "x": 475, "y": 430}]
+												},
+												{
+													"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/Sacred Land/SW Village Chest"}],
+													"map_locations": [{"map": "sacred_land", "x": 277, "y": 584}]
+												},
+												{
+													"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/Sacred Land/Gerudo Desert Chest"}],
+													"map_locations": [{"map": "sacred_land", "x": 618, "y": 265}]
+												},
+												{
+													"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/Sacred Land/Gerudo Fortress Chest"}],
+													"map_locations": [{"map": "sacred_land", "x": 700, "y": 117}]
+												},
+												{
+													"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/Sacred Land/Defeat Ganon"}],
+													"map_locations": [{"map": "sacred_land", "x": 637, "y": 350}]
+												}
+									]
+								},
+								{
+									"name": "Dracula's Castle",
+									"access_rules": [
+										"draculas_castle_key"
+									],
+									"sections": [
+										{"name": "Rescue Daisy", "item_count": 1},
+										{"name": "Rescue Wario", "item_count": 1},
+										{"name": "Castle Underground Chest", "item_count": 1},
+										{"name": "Castle Grounds Chest", "item_count": 1},
+										{"name": "Rescue Ridley", "item_count": 1},
+										{"name": "Rescue Ken", "item_count": 1},
+										{"name": "Rescue Dark Pit", "item_count": 1},
+										{"name": "Castle Gear Tower Chest", "item_count": 1},
+										{"name": "Rescue Robin", "item_count": 1},
+										{"name": "Rescue Richter", "item_count": 1},
+										{"name": "Defeat Dracula", "hosted_item": "dracula_defeated"}
+									],
+									"map_locations": [{"map": "dark_realm", "x": 1263, "y": 896}],
+									"children": [
+												{
+													"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/Dracula's Castle/Rescue Daisy"}],
+													"map_locations": [{"map": "draculas_castle", "x": 238, "y": 510}]
+												},
+												{
+													"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/Dracula's Castle/Rescue Dark Pit"}],
+													"map_locations": [{"map": "draculas_castle", "x": 1948, "y": 366}]
+												},
+												{
+													"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/Dracula's Castle/Rescue Wario"}],
+													"map_locations": [{"map": "draculas_castle", "x": 1175, "y": 401}]
+												},
+												{
+													"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/Dracula's Castle/Rescue Robin"}],
+													"map_locations": [{"map": "draculas_castle", "x": 1306, "y": 242}]
+												},
+												{
+													"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/Dracula's Castle/Rescue Ken"}],
+													"map_locations": [{"map": "draculas_castle", "x": 1621, "y": 567}]
+												},
+												{
+													"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/Dracula's Castle/Rescue Ridley"}],
+													"map_locations": [{"map": "draculas_castle", "x": 1823, "y": 1009}]
+												},
+												{
+													"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/Dracula's Castle/Rescue Richter"}],
+													"map_locations": [{"map": "draculas_castle", "x": 1159, "y": 181}]
+												},
+												{
+													"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/Dracula's Castle/Castle Underground Chest"}],
+													"map_locations": [{"map": "draculas_castle", "x": 1355, "y": 941}]
+												},
+												{
+													"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/Dracula's Castle/Castle Grounds Chest"}],
+													"map_locations": [{"map": "draculas_castle", "x": 880, "y": 859}]
+												},
+												{
+													"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/Dracula's Castle/Castle Gear Tower Chest"}],
+													"map_locations": [{"map": "draculas_castle", "x": 1373, "y": 296}]
+												},
+												{
+													"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/Dracula's Castle/Defeat Dracula"}],
+													"map_locations": [{"map": "draculas_castle", "x": 1077, "y": 168}]
+												}
+									]
+								},
+								{
+									"name": "Mysterious Dimension",
+									"access_rules": [
+										"mysterious_dimension_key"
+									],
+									"sections": [
+										{"name": "Rescue R.O.B.", "item_count": 1},
+										{"name": "Rescue Greninja", "item_count": 1},
+										{"name": "Rescue Corrin", "item_count": 1},
+										{"name": "Rescue Wolf", "item_count": 1},
+										{"name": "Rescue Ike", "item_count": 1},
+										{"name": "Rescue Mewtwo", "item_count": 1},
+										{"name": "Rescue King K. Rool", "item_count": 1},
+										{"name": "Rescue Meta Knight", "item_count": 1},
+										{"name": "Rescue Luigi", "item_count": 1},
+										{"name": "Defeat Marx", "hosted_item": "marx_defeated"}
+									],
+									"map_locations": [{"map": "dark_realm", "x": 987, "y": 39}],
+									"children": [
+												{
+													"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/Mysterious Dimension/Rescue Luigi"}],
+													"map_locations": [{"map": "mysterious_dimension", "x": 195, "y": 1155}]
+												},
+												{
+													"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/Mysterious Dimension/Rescue Mewtwo"}],
+													"map_locations": [{"map": "mysterious_dimension", "x": 1868, "y": 618}]
+												},
+												{
+													"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/Mysterious Dimension/Rescue Meta Knight"}],
+													"map_locations": [{"map": "mysterious_dimension", "x": 577, "y": 1084}]
+												},
+												{
+													"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/Mysterious Dimension/Rescue Ike"}],
+													"map_locations": [{"map": "mysterious_dimension", "x": 703, "y": 1384}]
+												},
+												{
+													"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/Mysterious Dimension/Rescue R.O.B."}],
+													"map_locations": [{"map": "mysterious_dimension", "x": 2418, "y": 2063}]
+												},
+												{
+													"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/Mysterious Dimension/Rescue Wolf"}],
+													"map_locations": [{"map": "mysterious_dimension", "x": 234, "y": 1813}]
+												},
+												{
+													"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/Mysterious Dimension/Rescue Greninja"}],
+													"map_locations": [{"map": "mysterious_dimension", "x": 1045, "y": 2201}]
+												},
+												{
+													"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/Mysterious Dimension/Rescue Corrin"}],
+													"map_locations": [{"map": "mysterious_dimension", "x": 1485, "y": 2310}]
+												},
+												{
+													"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/Mysterious Dimension/Rescue King K. Rool"}],
+													"map_locations": [{"map": "mysterious_dimension", "x": 2260, "y": 809}]
+												},
+												{
+													"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/Mysterious Dimension/Defeat Marx"}],
+													"map_locations": [{"map": "mysterious_dimension", "x": 928, "y": 594}]
+												}
+									]
+								},
+								{
+									"name": "The Final Battle",
+									"access_rules": [
+										"final_battle_key, dharkon_defeated"
+									],
+									"sections": [
+										{"name": "Rescue Dark Samus", "item_count": 1},
+										{"name": "Rescue Roy", "item_count": 1},
+										{"name": "Rescue Bayonetta", "item_count": 1},
+										{"name": "Rescue Palutena", "item_count": 1},
+										{"name": "Defeat Galeem and Dharkon", "hosted_item": "galeem_and_dharkon_defeated"}
+									],
+									"map_locations": [{"map": "dark_realm", "x": 963, "y": 625}],
+									"children": [
+												{
+													"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/The Final Battle/Rescue Dark Samus"}],
+													"map_locations": [{"map": "final_battle", "x": 737, "y": 420}]
+												},
+												{
+													"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/The Final Battle/Rescue Roy"}],
+													"map_locations": [{"map": "final_battle", "x": 1003, "y": 480}]
+												},
+												{
+													"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/The Final Battle/Rescue Palutena"}],
+													"map_locations": [{"map": "final_battle", "x": 1168, "y": 890}]
+												},
+												{
+													"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/The Final Battle/Rescue Bayonetta"}],
+													"map_locations": [{"map": "final_battle", "x": 524, "y": 819}]
+												},
+												{
+													"sections": [{"ref": "The Light Realm/Galeem/The Dark Realm/The Final Battle/Defeat Galeem and Dharkon"}],
+													"map_locations": [{"map": "final_battle", "x": 956, "y": 104}]
+												}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+	},
+	
+	
+	
+	
+	
+	{
+        "name": "Example Parent",
+        "children": [
+            {
+                "name": "Example Location 1",
+                "access_rules": [
+                    //read as: progressive_2 or toggle                    
+                    "progressive_2",
+                    "toggle"                    
+                ],
+                "sections": [
+                    {
+                        "name": "Example Section 1",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Example Section 2",
+                        "item_count": 3
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1750,
+                        "y": 700
+                    },
+                    {
+                        "map": "map2",
+                        "x": 1000,
+                        "y": 500
+                    }
+                ]
+            },
+            {
+                "name": "Example Location 2",
+                "access_rules": [
+                    //read as: progressive_toggle_2 and has more then 4 consumable
+                    "progressive_toggle_2, $has_more_then_n_consumable|4"                   
+                ],
+                "sections": [
+                    {
+                        "name": "Example Section 1",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1500,
+                        "y": 400
+                    }
+                ]
+            }            
+        ]
+    }
+]
