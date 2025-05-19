@@ -5,6 +5,7 @@
     "name": "World of Light Manual Tracker",
     "game_name": "Manual_WorldOfLight_Entei",
     "package_version": "0.1",
+	"min_poptracker_version": "0.27.1",
     "package_uid": "world_of_light_entei",
     "author": "Entei",
     "variants": {

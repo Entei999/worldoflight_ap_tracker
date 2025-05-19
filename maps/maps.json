@@ -8,7 +8,7 @@
     },
     {
         "name": "dark_realm",
-        "location_size": 32,
+        "location_size": 36,
         "location_border_thickness": 3,
         "img": "images/maps/dark_realm.png"
     },
@@ -26,7 +26,7 @@
     },
 	{
         "name": "mysterious_dimension",
-        "location_size": 72,
+        "location_size": 144,
         "location_border_thickness": 6,
         "img": "images/maps/mysterious_dimension.png"
     },

@@ -19,6 +19,12 @@
         "codes": "bowser"
     },
 	{
+        "name": "Bowser Jr.",
+        "type": "toggle",
+        "img": "images/items/bowser_jr.png",
+        "codes": "bowser_jr"
+    },
+	{
         "name": "Byleth",
         "type": "toggle",
         "img": "images/items/byleth.png",

@@ -13,17 +13,16 @@
                 "content": [
                     {
                         "type": "itemgrid",
-                        "item_margin": "10, 10",
+                        "item_margin": "1, 1",
                         "h_alignment": "left",
                         "rows": [
-                            [
-                                "driver",
-                                "temple_cleared"           
-                            ],
-                            [
-                                "bridge_repair",
-                                "power_plant_key"
-                            ]
+                            ["mario", "donkey_kong", "link", "samus", "dark_samus", "yoshi", "kirby", "fox", "pikachu", "luigi", "ness", "captain_falcon", "jigglypuff"],
+							["peach", "daisy", "bowser", "ice_climbers", "sheik", "zelda", "dr_mario", "pichu", "falco", "marth", "lucina", "young_link", "ganondorf"],
+							["mewtwo", "roy", "chrom", "mr_game_and_watch", "meta_knight", "pit", "dark_pit", "zero_suit_samus", "wario", "snake", "ike", "pokemon_trainer", "diddy_kong"],
+							["lucas", "sonic", "king_dedede", "olimar", "lucario", "rob", "toon_link", "wolf", "villager", "mega_man", "wii_fit_trainer", "rosalina", "little_mac"],
+							["greninja", "palutena", "pac-man", "robin", "shulk", "bowser_jr", "duck_hunt", "ryu", "ken", "cloud", "corrin", "bayonetta", "inkling"],
+							["ridley", "simon", "richter", "king_k_rool", "isabelle", "incineroar", "piranha_plant", "joker", "hero", "banjo", "terry", "byleth", "min_min"],
+							["","","steve", "sephiroth", "pyra_mythra", "kazuya", "sora", "mii_brawler", "mii_swordfighter", "mii_gunner"]
                         ]
                     }
                 ]
@@ -42,7 +41,7 @@
 				"content": [
 					{
 						"type": "itemgrid",
-						"item_margin": "10,10",
+						"item_margin": "5,5",
 						"h_alignment": "left",
 						"rows": [
 							["driver", "rain_conjuring", "bridge_repair", "bus", "base_entrance"],
@@ -65,7 +64,7 @@
 				"content": [
 					{
 						"type": "itemgrid",
-						"item_margin": "10,10",
+						"item_margin": "5,5",
 						"h_alignment": "left",
 						"rows": [
 							["temple_of_light_key", "molten_fortress_key", "base_key", "forest_hill_key"],
@@ -88,7 +87,7 @@
 				"content": [
 					{
 						"type": "itemgrid",
-						"item_margin": "10,10",
+						"item_margin": "5,5",
 						"h_alignment": "left",
 						"rows": [
 							["dark_realm_key", "sacred_land_key", "mysterious_dimension_key", "draculas_castle_key"],
@@ -111,12 +110,40 @@
 				"content": [
 					{
 						"type": "itemgrid",
-						"item_margin": "10,10",
+						"item_margin": "5,5",
 						"h_alignment": "left",
 						"rows": [
 							["temple_cleared", "power_plant_cleared"],
 							["giga_bowser_defeated", "galleom_defeated", "rathalos_defeated", "galeem_defeated"],
 							["ganon_defeated", "marx_defeated", "dracula_defeated", "dharkon_defeated"]
+						]
+					}
+				]
+			}
+		]
+	},
+	"characters": {
+		"type": "array",
+		"orientation": "vertical",
+		"margin": "0,0",
+		"content": [
+			{
+				"type": "array",
+				"orientation": "horizontal",
+				"margin": "0,0",
+				"content": [
+					{
+						"type": "itemgrid",
+						"item_margin": "1,1",
+						"h_alignment": "left",
+						"rows": [
+							["mario", "donkey_kong", "link", "samus", "dark_samus", "yoshi", "kirby", "fox", "pikachu", "luigi", "ness", "captain_falcon", "jigglypuff"],
+							["peach", "daisy", "bowser", "ice_climbers", "sheik", "zelda", "dr_mario", "pichu", "falco", "marth", "lucina", "young_link", "ganondorf"],
+							["mewtwo", "roy", "chrom", "mr_game_and_watch", "meta_knight", "pit", "dark_pit", "zero_suit_samus", "wario", "snake", "ike", "pokemon_trainer", "diddy_kong"],
+							["lucas", "sonic", "king_dedede", "olimar", "lucario", "rob", "toon_link", "wolf", "villager", "mega_man", "wii_fit_trainer", "rosalina", "little_mac"],
+							["greninja", "palutena", "pac-man", "robin", "shulk", "bowser_jr", "duck_hunt", "ryu", "ken", "cloud", "corrin", "bayonetta", "inkling"],
+							["ridley", "simon", "richter", "king_k_rool", "isabelle", "incineroar", "piranha_plant", "joker", "hero", "banjo", "terry", "byleth", "min_min"],
+							["","","steve", "sephiroth", "pyra_mythra", "kazuya", "sora", "mii_brawler", "mii_swordfighter", "mii_gunner"]
 						]
 					}
 				]

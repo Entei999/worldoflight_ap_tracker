@@ -1,25 +1,77 @@
 [
 	{
 			"name": "The Light Realm",
+			"sections":
+			[
+				{"name": "Rescue Mario", "item_count": 1},
+				{"name": "Rescue Donkey Kong", "item_count": 1},
+				{"name": "Rescue Link", "item_count": 1},
+				{"name": "Rescue Yoshi", "item_count": 1},
+				{"name": "Rescue Fox", "item_count": 1},
+				{"name": "Rescue Captain Falcon", "item_count": 1, "access_rules": ["driver"]},
+				{"name": "Rescue Jigglypuff", "item_count": 1, "access_rules": ["bridge_repair"]},
+				{"name": "Rescue Ice Climbers", "item_count": 1},
+				{"name": "Rescue Sheik", "item_count": 1},
+				{"name": "Rescue Dr. Mario", "item_count": 1},
+				{"name": "Rescue Marth", "item_count": 1},
+				{"name": "Rescue Lucas", "item_count": 1},
+				{"name": "Rescue Olimar", "item_count": 1, "access_rules": ["rain_conjuring"]},
+				{"name": "Rescue Lucario", "item_count": 1},
+				{"name": "Rescue Villager", "item_count": 1},
+				{"name": "Rescue Wii Fit Trainer", "item_count": 1},
+				{"name": "Rescue Little Mac", "item_count": 1, "access_rules": ["power_plant_cleared"]},
+				{"name": "Rescue PAC-MAN", "item_count": 1},
+				{"name": "Rescue Duck Hunt", "item_count": 1},
+				{"name": "Rescue Inkling", "item_count": 1},
+				{"name": "Rescue Isabelle", "item_count": 1, "access_rules": ["bus"]},
+				{"name": "Rescue Mii Swordfighter", "item_count": 1},
+				
+				{"name": "Chest North of Raceway", "item_count": 1},
+				{"name": "SE Plateau Chest", "item_count": 1},
+				{"name": "River Woods - Chest by River", "item_count": 1},
+				{"name": "River Woods - Chest Against Great Wall", "item_count": 1},
+				{"name": "Eastern Town Square Chest", "item_count": 1},
+				{"name": "Chest North of Mushrooms", "item_count": 1},
+				{"name": "Chest Beneath Mushrooms", "item_count": 1},
+				{"name": "Ribbon Road Chest", "item_count": 1},
+				{"name": "East Rapids Chest (Under Rock)", "item_count": 1, "access_rules": ["rock_clearing"]},
+				{"name": "West Jungle Pond Chest", "item_count": 1},
+				{"name": "Cliff Chest NE of Jungle", "item_count": 1},
+				{"name": "Lumiose City Chest", "item_count": 1},
+				{"name": "Console City SW Chest", "item_count": 1},
+				{"name": "Console City East Chest", "item_count": 1},
+				{"name": "Chest South of Heart Pool", "item_count": 1},
+				{"name": "Chest North of Heart Pool", "item_count": 1},
+				{"name": "Poison Woods South Chest", "item_count": 1},
+				{"name": "Poison Woods North Chest", "item_count": 1},
+				{"name": "Poison Woods East Chest", "item_count": 1},
+				{"name": "Poison Woods NE Chest", "item_count": 1},
+				{"name": "Poison Woods NW Chest", "item_count": 1},
+				{"name": "Poison Woods SW Chest", "item_count": 1},
+				{"name": "Chest West of NW Town", "item_count": 1, "access_rules": ["bridge_repair, rock_clearing"]},
+				{"name": "NW Town East Chest", "item_count": 1},
+				{"name": "Frozen Summit Chest (Under Rock)", "item_count": 1, "access_rules": ["rock_clearing"]},
+				{"name": "Frozen Mountain South Chest", "item_count": 1}
+			],
 			"children": [
 						{
-							"sections": [{"name": "Rescue Mario", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/Rescue Mario"}],
 							"map_locations": [{"map": "light_realm", "x": 628, "y": 484}]
 						},
 						{
-							"sections": [{"name": "Rescue Donkey Kong", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/Rescue Donkey Kong"}],
 							"map_locations": [{"map": "light_realm", "x": 207, "y": 448}]
 						},
 						{
-							"sections": [{"name": "Rescue Link", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/Rescue Link"}],
 							"map_locations": [{"map": "light_realm", "x": 708, "y": 573}]
 						},
 						{
-							"sections": [{"name": "Rescue Yoshi", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/Rescue Yoshi"}],
 							"map_locations": [{"map": "light_realm", "x": 693, "y": 268}]
 						},
 						{
-							"sections": [{"name": "Rescue Fox", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/Rescue Fox"}],
 							"map_locations": [{"map": "light_realm", "x": 567, "y": 199}]
 						},
 						{
@@ -28,46 +80,44 @@
 							"map_locations": [{"map": "light_realm", "x": 748, "y": 270}]
 						},
 						{
-							"access_rules": ["driver"],
-							"sections": [{"name": "Rescue Captain Falcon", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/Rescue Captain Falcon"}],
 							"map_locations": [{"map": "light_realm", "x": 787, "y": 470}]
 						},
 						{
-							"access_rules": ["bridge_repair"],
-							"sections": [{"name": "Rescue Jigglypuff", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/Rescue Jigglypuff"}],
 							"map_locations": [{"map": "light_realm", "x": 707, "y": 357}]
 						},
 						{
-							"sections": [{"name": "Rescue Ice Climbers", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/Rescue Ice Climbers"}],
 							"map_locations": [{"map": "light_realm", "x": 355, "y": 213}]
 						},
 						{
-							"sections": [{"name": "Rescue Sheik", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/Rescue Sheik"}],
 							"map_locations": [{"map": "light_realm", "x": 628, "y": 432}]
 						},
 						{
-							"sections": [{"name": "Rescue Dr. Mario", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/Rescue Dr. Mario"}],
 							"map_locations": [{"map": "light_realm", "x": 607, "y": 278}]
 						},
 						{
-							"sections": [{"name": "Rescue Marth", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/Rescue Marth"}],
 							"map_locations": [{"map": "light_realm", "x": 595, "y": 458}]
 						},
 						{
-							"sections": [{"name": "Rescue Lucas", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/Rescue Lucas"}],
 							"map_locations": [{"map": "light_realm", "x": 264, "y": 285}]
 						},
 						{
 							"access_rules": ["rain_conjuring"],
-							"sections": [{"name": "Rescue Olimar", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/Rescue Olimar"}],
 							"map_locations": [{"map": "light_realm", "x": 505, "y": 607}]
 						},
 						{
-							"sections": [{"name": "Rescue Lucario", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/Rescue Lucario"}],
 							"map_locations": [{"map": "light_realm", "x": 820, "y": 313}]
 						},
 						{
-							"sections": [{"name": "Rescue Villager", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/Rescue Villager"}],
 							"map_locations": [{"map": "light_realm", "x": 655, "y": 455}]
 						},
 						{
@@ -77,142 +127,143 @@
 							"map_locations": [{"map": "light_realm", "x": 324, "y": 528}]
 						},
 						{
-							"sections": [{"name": "Rescue Wii Fit Trainer", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/Rescue Wii Fit Trainer"}],
 							"map_locations": [{"map": "light_realm", "x": 519, "y": 307}]
 						},
 						{
 							"access_rules": ["power_plant_cleared"],
-							"sections": [{"name": "Rescue Little Mac", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/Rescue Little Mac"}],
 							"map_locations": [{"map": "light_realm", "x": 463, "y": 334}]
 						},
 						{
-							"sections": [{"name": "Rescue PAC-MAN", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/Rescue PAC-MAN"}],
 							"map_locations": [{"map": "light_realm", "x": 390, "y": 518}]
 						},
 						{
-							"sections": [{"name": "Rescue Duck Hunt", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/Rescue Duck Hunt"}],
 							"map_locations": [{"map": "light_realm", "x": 344, "y": 318}]
 						},
 						{
-							"sections": [{"name": "Rescue Inkling", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/Rescue Inkling"}],
 							"map_locations": [{"map": "light_realm", "x": 551, "y": 370}]
 						},
 						{
 							"access_rules": ["bus"],
-							"sections": [{"name": "Rescue Isabelle", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/Rescue Isabelle"}],
 							"map_locations": [{"map": "light_realm", "x": 808, "y": 382}]
 						},
 						{
-							"sections": [{"name": "Rescue Mii Swordfighter", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/Rescue Mii Swordfighter"}],
 							"map_locations": [{"map": "light_realm", "x": 770, "y": 329}]
 						},
 						
+
 						
 						{
-							"sections": [{"name": "Chest North of Raceway", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/Chest North of Raceway"}],
 							"map_locations": [{"map": "light_realm", "x": 796, "y": 413}]
 						},
 						{
-							"sections": [{"name": "SE Plateau Chest", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/SE Plateau Chest"}],
 							"map_locations": [{"map": "light_realm", "x": 691, "y": 634}]
 						},
 						{
-							"sections": [{"name": "River Woods - Chest by River", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/River Woods - Chest by River"}],
 							"map_locations": [{"map": "light_realm", "x": 631, "y": 326}]
 						},
 						{
-							"sections": [{"name": "River Woods - Chest Against Great Wall", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/River Woods - Chest Against Great Wall"}],
 							"map_locations": [{"map": "light_realm", "x": 690, "y": 305}]
 						},
 						{
-							"sections": [{"name": "Eastern Town Square Chest", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/Eastern Town Square Chest"}],
 							"map_locations": [{"map": "light_realm", "x": 754, "y": 372}]
 						},
 						{
-							"sections": [{"name": "Chest North of Mushrooms", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/Chest North of Mushrooms"}],
 							"map_locations": [{"map": "light_realm", "x": 448, "y": 409}]
 						},
 						{
-							"sections": [{"name": "Chest Beneath Mushrooms", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/Chest Beneath Mushrooms"}],
 							"map_locations": [{"map": "light_realm", "x": 471, "y": 562}]
 						},
 						{
-							"sections": [{"name": "Ribbon Road Chest", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/Ribbon Road Chest"}],
 							"map_locations": [{"map": "light_realm", "x": 674, "y": 169}]
 						},
 						{
 							"access_rules": ["rock_clearing"],
-							"sections": [{"name": "East Rapids Chest (Under Rock)", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/East Rapids Chest (Under Rock)"}],
 							"map_locations": [{"map": "light_realm", "x": 765, "y": 235}]
 						},
 						{
-							"sections": [{"name": "West Jungle Pond Chest", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/West Jungle Pond Chest"}],
 							"map_locations": [{"map": "light_realm", "x": 156, "y": 433}]
 						},
 						{
-							"sections": [{"name": "Cliff Chest NE of Jungle", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/Cliff Chest NE of Jungle"}],
 							"map_locations": [{"map": "light_realm", "x": 342, "y": 392}]
 						},
 						{
-							"sections": [{"name": "Lumiose City Chest", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/Lumiose City Chest"}],
 							"map_locations": [{"map": "light_realm", "x": 547, "y": 273}]
 						},
 						{
-							"sections": [{"name": "Console City SW Chest", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/Console City SW Chest"}],
 							"map_locations": [{"map": "light_realm", "x": 516, "y": 405}]
 						},
 						{
-							"sections": [{"name": "Console City East Chest", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/Console City East Chest"}],
 							"map_locations": [{"map": "light_realm", "x": 577, "y": 383}]
 						},
 						{
-							"sections": [{"name": "Chest South of Heart Pool", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/Chest South of Heart Pool"}],
 							"map_locations": [{"map": "light_realm", "x": 559, "y": 228}]
 						},
 						{
-							"sections": [{"name": "Chest North of Heart Pool", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/Chest North of Heart Pool"}],
 							"map_locations": [{"map": "light_realm", "x": 546, "y": 153}]
 						},
 						{
-							"sections": [{"name": "Poison Woods South Chest", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/Poison Woods South Chest"}],
 							"map_locations": [{"map": "light_realm", "x": 418, "y": 297}]
 						},
 						{
-							"sections": [{"name": "Poison Woods North Chest", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/Poison Woods North Chest"}],
 							"map_locations": [{"map": "light_realm", "x": 399, "y": 237}]
 						},
 						{
-							"sections": [{"name": "Poison Woods East Chest", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/Poison Woods East Chest"}],
 							"map_locations": [{"map": "light_realm", "x": 448, "y": 266}]
 						},
 						{
-							"sections": [{"name": "Poison Woods NE Chest", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/Poison Woods NE Chest"}],
 							"map_locations": [{"map": "light_realm", "x": 434, "y": 238}]
 						},
 						{
-							"sections": [{"name": "Poison Woods NW Chest", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/Poison Woods NW Chest"}],
 							"map_locations": [{"map": "light_realm", "x": 335, "y": 250}]
 						},
 						{
-							"sections": [{"name": "Poison Woods SW Chest", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/Poison Woods SW Chest"}],
 							"map_locations": [{"map": "light_realm", "x": 360, "y": 286}]
 						},
 						{
 							"access_rules": ["bridge_repair, rock_clearing"],
-							"sections": [{"name": "Chest West of NW Town", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/Chest West of NW Town"}],
 							"map_locations": [{"map": "light_realm", "x": 130, "y": 251}]
 						},
 						{
-							"sections": [{"name": "NW Town East Chest", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/NW Town East Chest"}],
 							"map_locations": [{"map": "light_realm", "x": 310, "y": 280}]
 						},
 						{
 							"access_rules": ["rock_clearing"],
-							"sections": [{"name": "Frozen Summit Chest (Under Rock)", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/Frozen Summit Chest (Under Rock)"}],
 							"map_locations": [{"map": "light_realm", "x": 356, "y": 118}]
 						},
 						{
-							"sections": [{"name": "Frozen Mountain South Chest", "item_count": 1}],
+							"sections": [{"ref": "The Light Realm/Frozen Mountain South Chest"}],
 							"map_locations": [{"map": "light_realm", "x": 389, "y": 201}]
 						},
 						
@@ -286,13 +337,18 @@
 					"access_rules": [
 						"spaceship"
 					],
+					"sections":
+					[
+						{"name": "Rescue Falco", "item_count": 1},
+						{"name": "Red Planet Chest", "item_count": 1}
+					],
 					"children": [
 								{
-									"sections": [{"name": "Rescue Falco", "item_count": 1}],
+									"sections": [{"ref": "The Light Realm/Outer Space/Rescue Falco"}],
 									"map_locations": [{"map": "light_realm", "x": 470, "y": 50}]
 								},
 								{
-									"sections": [{"name": "Red Planet Chest", "item_count": 1}],
+									"sections": [{"ref": "The Light Realm/Outer Space/Red Planet Chest"}],
 									"map_locations": [{"map": "light_realm", "x": 427, "y": 65}]
 								}
 					]
@@ -302,75 +358,93 @@
 					"access_rules": [
 						"temple_cleared"
 					],
+					"sections":
+					[
+						{"name": "Rescue Samus", "item_count": 1},
+						{"name": "Rescue Ness", "item_count": 1},
+						{"name": "Rescue Mr. Game and Watch", "item_count": 1},
+						{"name": "Rescue Zero Suit Samus", "item_count": 1, "access_rules": ["rock_clearing"]},
+						{"name": "Rescue Pokemon Trainer", "item_count": 1},
+						{"name": "Rescue Shulk", "item_count": 1, "access_rules": ["bridge_repair"]},
+						{"name": "Rescue Mii Gunner", "item_count": 1, "access_rules": ["lapras"]},
+						{"name": "Pac-Maze Chest", "item_count": 1},
+						{"name": "SE Coastal Town Chest", "item_count": 1},
+						{"name": "SE Island Chest", "item_count": 1, "access_rules": ["lapras"]},
+						{"name": "Chest East of Waterfall Mountain", "item_count": 1, "access_rules": ["bridge_repair"]},
+						{"name": "SW Badlands Chest", "item_count": 1, "access_rules": ["bridge_repair"]},
+						{"name": "North Badlands Chest", "item_count": 1, "access_rules": ["rock_clearing", "train"]},
+						{"name": "Volcano Base Chest", "item_count": 1, "access_rules": ["rock_clearing", "train"]},
+						{"name": "Volcano Peak Chest", "item_count": 1, "access_rules": ["rock_clearing"]}
+					],
 					"children": [
 								{
-									"sections": [{"name": "Rescue Samus", "item_count": 1}],
+									"sections": [{"ref": "The Light Realm/East Light Realm/Rescue Samus"}],
 									"map_locations": [{"map": "light_realm", "x": 881, "y": 397}]
 								},
 								{
-									"sections": [{"name": "Rescue Ness", "item_count": 1}],
+									"sections": [{"ref": "The Light Realm/East Light Realm/Rescue Ness"}],
 									"map_locations": [{"map": "light_realm", "x": 880, "y": 171}]
 								},
 								{
-									"sections": [{"name": "Rescue Mr. Game and Watch", "item_count": 1}],
+									"sections": [{"ref": "The Light Realm/East Light Realm/Rescue Mr. Game and Watch"}],
 									"map_locations": [{"map": "light_realm", "x": 960, "y": 392}]
 								},
 								{
 									"access_rules": ["rock_clearing"],
-									"sections": [{"name": "Rescue Zero Suit Samus", "item_count": 1}],
+									"sections": [{"ref": "The Light Realm/East Light Realm/Rescue Zero Suit Samus"}],
 									"map_locations": [{"map": "light_realm", "x": 1013, "y": 138}]
 								},
 								{
-									"sections": [{"name": "Rescue Pokemon Trainer", "item_count": 1}],
+									"sections": [{"ref": "The Light Realm/East Light Realm/Rescue Pokemon Trainer"}],
 									"map_locations": [{"map": "light_realm", "x": 1077, "y": 480}]
 								},
 								{
 									"access_rules": ["bridge_repair"],
-									"sections": [{"name": "Rescue Shulk", "item_count": 1}],
+									"sections": [{"ref": "The Light Realm/East Light Realm/Rescue Shulk"}],
 									"map_locations": [{"map": "light_realm", "x": 1084, "y": 260}]
 								},
 								{
 									"access_rules": ["lapras"],
-									"sections": [{"name": "Rescue Mii Gunner", "item_count": 1}],
+									"sections": [{"ref": "The Light Realm/East Light Realm/Rescue Mii Gunner"}],
 									"map_locations": [{"map": "light_realm", "x": 995, "y": 663}]
 								},
 								
 								{
-									"sections": [{"name": "Pac-Maze Chest", "item_count": 1}],
+									"sections": [{"ref": "The Light Realm/East Light Realm/Pac-Maze Chest"}],
 									"map_locations": [{"map": "light_realm", "x": 997, "y": 420}]
 								},
 								{
-									"sections": [{"name": "SE Coastal Town Chest", "item_count": 1}],
+									"sections": [{"ref": "The Light Realm/East Light Realm/SE Coastal Town Chest"}],
 									"map_locations": [{"map": "light_realm", "x": 975, "y": 520}]
 								},
 								{
 									"access_rules": ["lapras"],
-									"sections": [{"name": "SE Island Chest", "item_count": 1}],
+									"sections": [{"ref": "The Light Realm/East Light Realm/SE Island Chest"}],
 									"map_locations": [{"map": "light_realm", "x": 1053, "y": 591}]
 								},
 								{
 									"access_rules": ["bridge_repair"],
-									"sections": [{"name": "Chest East of Waterfall Mountain", "item_count": 1}],
+									"sections": [{"ref": "The Light Realm/East Light Realm/Chest East of Waterfall Mountain"}],
 									"map_locations": [{"map": "light_realm", "x": 1156, "y": 313}]
 								},
 								{
 									"access_rules": ["bridge_repair"],
-									"sections": [{"name": "SW Badlands Chest", "item_count": 1}],
+									"sections": [{"ref": "The Light Realm/East Light Realm/SW Badlands Chest"}],
 									"map_locations": [{"map": "light_realm", "x": 869, "y": 315}]
 								},
 								{
 									"access_rules": ["rock_clearing", "train"],
-									"sections": [{"name": "North Badlands Chest", "item_count": 1}],
+									"sections": [{"ref": "The Light Realm/East Light Realm/North Badlands Chest"}],
 									"map_locations": [{"map": "light_realm", "x": 956, "y": 205}]
 								},
 								{
 									"access_rules": ["rock_clearing", "train"],
-									"sections": [{"name": "Volcano Base Chest", "item_count": 1}],
+									"sections": [{"ref": "The Light Realm/East Light Realm/Volcano Base Chest"}],
 									"map_locations": [{"map": "light_realm", "x": 1011, "y": 198}]
 								},
 								{
 									"access_rules": ["rock_clearing"],
-									"sections": [{"name": "Volcano Peak Chest", "item_count": 1}],
+									"sections": [{"ref": "The Light Realm/East Light Realm/Volcano Peak Chest"}],
 									"map_locations": [{"map": "light_realm", "x": 1099, "y": 127}]
 								},
 						{
@@ -379,9 +453,13 @@
 								"rock_clearing, rain_conjuring",
 								"galeem_defeated"
 							],
+							"sections":
+							[
+								{"name": "Chest on a Cloud", "item_count": 1}
+							],
 							"children": [
 											{
-												"sections": [{"name": "Chest on a Cloud", "item_count": 1}],
+												"sections": [{"ref": "The Light Realm/East Light Realm/Sea of Clouds/Chest on a Cloud"}],
 												"map_locations": [{"map": "light_realm", "x": 844, "y": 111}]
 											},
 								{
@@ -430,7 +508,7 @@
 						{
 							"name": "The Dark Realm",
 							"access_rules": [
-								"dark_realm_key"
+								"dark_realm_key, galeem_defeated"
 							],
 							"sections": [
 								{"name": "Rescue Incineroar", "item_count": 1},
