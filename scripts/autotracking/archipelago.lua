@@ -5,7 +5,7 @@
 -- this is useful since remote items will not reset but local items might
 ScriptHost:LoadScript("scripts/autotracking/item_mapping.lua")
 ScriptHost:LoadScript("scripts/autotracking/location_mapping.lua")
-ScriptHost:LoadScriot("scripts/autotracking/sectionID.lua")
+ScriptHost:LoadScript("scripts/autotracking/sectionID.lua")
 
 CUR_INDEX = -1
 SLOT_DATA = nil
