@@ -1,6 +1,6 @@
 ITEM_MAPPING = {
 	[100] = {"mario", "toggle"},
-	[101] = {"donkeykong", "toggle"},
+	[101] = {"donkey_kong", "toggle"},
 	[102] = {"link", "toggle"},
 	[103] = {"samus", "toggle"},
 	[104] = {"dark_samus", "toggle"},

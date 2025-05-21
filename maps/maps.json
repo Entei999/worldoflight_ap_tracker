@@ -2,13 +2,13 @@
 [
     {
         "name": "light_realm",
-        "location_size": 24,
+        "location_size": 20,
         "location_border_thickness": 2,
         "img": "images/maps/light_realm.png"
     },
     {
         "name": "dark_realm",
-        "location_size": 36,
+        "location_size": 34,
         "location_border_thickness": 3,
         "img": "images/maps/dark_realm.png"
     },

@@ -178,6 +178,26 @@ function onBounce(json)
     -- your code goes here
 end
 
+-- Taken from https://github.com/Fouton/SnapTracker/blob/main/scripts/autotracking/archipelago.lua
+ScriptHost:AddOnLocationSectionChangedHandler("manual", function(section)
+    local sectionID = section.FullID
+    if (section.AvailableChestCount == 0) then  -- this only works for 1 chest per section
+        -- AP location cleared
+        local sectionID = section.FullID
+        local apID = sectionIDToAPID[sectionID]
+        if apID ~= nil then
+            local res = Archipelago:LocationChecks({apID})
+            if res then
+                print("Sent " .. tostring(apID) .. " for " .. tostring(sectionID))
+            else
+                print("Error sending " .. tostring(apID) .. " for " .. tostring(sectionID))
+            end
+        else
+            print(tostring(sectionID) .. " is not an AP location")
+        end
+    end
+end)
+
 -- add AP callbacks
 -- un-/comment as needed
 Archipelago:AddClearHandler("clear handler", onClear)

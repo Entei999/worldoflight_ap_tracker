@@ -669,61 +669,61 @@
 	{
         "name": "Power Plant Cleared",
         "type": "toggle",
-        "img": "images/items/key.png",
+        "img": "images/items/power_plant_cleared.png",
         "codes": "power_plant_cleared"
     },
 	{
         "name": "Temple Cleared",
         "type": "toggle",
-        "img": "images/items/key.png",
+        "img": "images/items/temple_cleared.png",
         "codes": "temple_cleared"
     },
 	{
         "name": "Rathalos Defeated",
         "type": "toggle",
-        "img": "images/items/key.png",
+        "img": "images/items/rathalos_defeated.png",
         "codes": "rathalos_defeated"
     },
 	{
         "name": "Galleom Defeated",
         "type": "toggle",
-        "img": "images/items/key.png",
+        "img": "images/items/galleom_defeated.png",
         "codes": "galleom_defeated"
     },
 	{
         "name": "Giga Bowser Defeated",
         "type": "toggle",
-        "img": "images/items/key.png",
+        "img": "images/items/giga_bowser_defeated.png",
         "codes": "giga_bowser_defeated"
     },
 	{
         "name": "Galeem Defeated",
         "type": "toggle",
-        "img": "images/items/key.png",
+        "img": "images/items/galeem_defeated.png",
         "codes": "galeem_defeated"
     },
 	{
         "name": "Ganon Defeated",
         "type": "toggle",
-        "img": "images/items/key.png",
+        "img": "images/items/ganon_defeated.png",
         "codes": "ganon_defeated"
     },
 	{
         "name": "Dracula Defeated",
         "type": "toggle",
-        "img": "images/items/key.png",
+        "img": "images/items/dracula_defeated.png",
         "codes": "dracula_defeated"
     },
 	{
         "name": "Marx Defeated",
         "type": "toggle",
-        "img": "images/items/key.png",
+        "img": "images/items/marx_defeated.png",
         "codes": "marx_defeated"
     },
 	{
         "name": "Dharkon Defeated",
         "type": "toggle",
-        "img": "images/items/key.png",
+        "img": "images/items/dharkon_defeated.png",
         "codes": "dharkon_defeated"
     },
 	{

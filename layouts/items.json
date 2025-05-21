@@ -44,8 +44,8 @@
 						"item_margin": "5,5",
 						"h_alignment": "left",
 						"rows": [
-							["driver", "rain_conjuring", "bridge_repair", "bus", "base_entrance"],
-							["lapras", "rock_clearing", "spaceship", "boat", "train"]
+							["driver", "rain_conjuring", "bridge_repair", "bus", "base_entrance", ""],
+							["lapras", "rock_clearing", "spaceship", "boat", "train", "rainbow_creation"]
 						]
 					}
 				]
